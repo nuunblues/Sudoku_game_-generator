@@ -1,1 +1,2 @@
 # Sudoku_game_-generator
+It can ether take in nothing and will randomly generate a new sudoku board every time that follows  all the rules and will also return the same board with numbers missing so user can try to solve the board.  It can also take in a sudoku board orm the user and print out the solved version  input: grid can be a 2-D matrix of a Sudoku puzzle  to solve, or None to generate a new puzzle. Return: complete solution and puzzel version.
